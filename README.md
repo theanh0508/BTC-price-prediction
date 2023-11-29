@@ -14,7 +14,7 @@ This repository contains code and resources for predicting Bitcoin prices using 
   - Implementing data cleaning processes to ensure data accuracy and reliability.
 
 - **Interactive Dashboard:**
-  - Developing an interactive dashboard to visualize monthly high and low BTC prices from 2014 to 2022.
+  - Developing an interactive dashboard to visualize monthly high and low BTC prices from 2019 to 2022.
 
 - **Baseline Performance:**
   - Conducting a Naive Forecast and Moving Average as baseline performance metrics.
