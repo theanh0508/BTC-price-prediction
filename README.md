@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code and resources for predicting Bitcoin prices using time-series analysis, machine learning, and deep learning techniques. The project involves downloading updated BTC price data from the Coinranking website using Python API requests, performing data exploratory and data cleaning, and creating an interactive dashboard to display monthly high and low BTC prices from 2014 to 2022.
+This repository contains code and resources for predicting Bitcoin prices using time-series analysis, machine learning, and deep learning techniques. The project involves downloading updated BTC price data from the Coinranking website using Python API requests, performing data exploratory and data cleaning, and creating an interactive dashboard to display monthly high and low BTC prices from 2019 to 2022.
 
 ## Project Highlights
 
