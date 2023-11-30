@@ -27,4 +27,4 @@ This repository contains code and resources for predicting Bitcoin prices using 
   - Building and training a Recurrent Neural Network (RNN), obtaining an MAE of 466.
   - Building and training a Long Short-Term Memory (LSTM) model, achieving an MAE 473.
 
-- **Please look at the jupyter notebook file for further analysis and conclusions **
+- Please look at the jupyter notebook file for further analysis and conclusions 
