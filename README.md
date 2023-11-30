@@ -23,7 +23,8 @@ This repository contains code and resources for predicting Bitcoin prices using 
   - Implementing seasonal decomposition of time series to detect seasonal trends in Bitcoin prices.
 
 - **Machine Learning Models:**
-  - Building and training a deep neural network using a time window of 30 data points to predict the next point, achieving an MAE of 474.
-  - Building and training a Recurrent Neural Network (RNN), obtaining an MAE of 445.
-  - Building and training a Long Short-Term Memory (LSTM) model, achieving an MAE of approximately 400.
+  - Building and training a deep neural network using a time window of 30 data points to predict the next point, achieving an MAE of 516.
+  - Building and training a Recurrent Neural Network (RNN), obtaining an MAE of 466.
+  - Building and training a Long Short-Term Memory (LSTM) model, achieving an MAE 473.
 
+- **Please look at the jupyter notebook file for further analysis and conclusions **
